@@ -35,21 +35,21 @@ understanding and facilitates easy usage in future applications.
 
 #### Part I: 
 Tutorial: [![Open In 
-Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/M2Lschool/tutorials2024-dev/blob/main/1_nlp/part_I_text_classification/Transformer_Encoder_Classification.ipynb)
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.sandbox.google.com/github/M2Lschool/tutorials2024/blob/main/1_nlp/part_I_text_classification/Transformer_Encoder_Classification.ipynb)
 
 <!-- Solution: [![Open In 
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/M2Lschool/tutorials2024-dev/blob/main/1_nlp/part_I_text_classification/Transformer_Encoder_Classification_solved.ipynb) -->
 
 #### Part II: 
 Tutorial: [![Open In 
-Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/M2Lschool/tutorials2024-dev/blob/main/1_nlp/part_II_text_generation/Transformer_Decoder_MoE.ipynb)
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.sandbox.google.com/github/M2Lschool/tutorials2024/blob/main/1_nlp/part_II_text_generation/Transformer_Decoder_MoE.ipynb)
 
 <!-- Solution: [![Open In 
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/M2Lschool/tutorials2024-dev/blob/main/1_nlp/part_II_text_generation/Transformer_Decoder_MoE_solved.ipynb) -->
 
 #### Part III: 
 Tutorial: [![Open In 
-Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/M2Lschool/tutorials2024-dev/blob/main/1_nlp/part_III_llm_finetuning/LoRA.ipynb)
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.sandbox.google.com/github/M2Lschool/tutorials2024/blob/main/1_nlp/part_III_llm_finetuning/LoRA.ipynb)
 
 <!-- Solution: [![Open In 
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/M2Lschool/tutorials2024-dev/blob/main/1_nlp/part_III_llm_finetuning/LoRA_solved.ipynb) -->
