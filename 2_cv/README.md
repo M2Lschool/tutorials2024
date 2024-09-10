@@ -22,8 +22,8 @@ In this practical, you will develop a simple Convolutional Neural Network for im
 Tutorial: [![Open In 
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.sandbox.google.com/github/M2Lschool/tutorials2024/blob/main/2_cv/First_exercise/M2L_Tutor_1_exercise.ipynb)
 
-<!-- Solution: [![Open In 
-Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/M2Lschool/tutorials2024-dev/blob/main/2_cv/First_exercise/M2L_Tutor_1_solution.ipynb) -->
+Solution: [![Open In 
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.sandbox.google.com/github/M2Lschool/tutorials2024/blob/main/2_cv/First_exercise/M2L_Tutor_1_solution.ipynb)
 
 ## Practical 2: Semantic Segmentation with Vision Transformer
 
@@ -39,8 +39,8 @@ In this practical, you will develop a Neural Network for semantic segmentation b
 Tutorial: [![Open In 
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.sandbox.google.com/github/M2Lschool/tutorials2024/blob/main/2_cv/Second_exercise/M2L_Tutor_2_exercise.ipynb)
 
-<!-- Solution: [![Open In 
-Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/M2Lschool/tutorials2024-dev/blob/main/2_cv/Second_exercise/M2L_Tutor_2_solution.ipynb) -->
+Solution: [![Open In 
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.sandbox.google.com/github/M2Lschool/tutorials2024/blob/main/2_cv/Second_exercise/M2L_Tutor_2_solution.ipynb)
 
 ## Practical 3: Vector Quantization with Variational AutoEncoder (VQ-VAE)
 
@@ -55,8 +55,6 @@ In this practical, you will understand what is and how to implement the Vector Q
 Tutorial: [![Open In 
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.sandbox.google.com/github/M2Lschool/tutorials2024/blob/main/2_cv/Third_exercise/M2L_Tutor_3_exercise.ipynb)
 
-<!-- Solution: [![Open In 
-Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/M2Lschool/tutorials2024-dev/blob/main/2_cv/Third_exercise/M2L_Tutor_3_solution.ipynb) -->
-
-
+Solution: [![Open In 
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.sandbox.google.com/github/M2Lschool/tutorials2024/blob/main/2_cv/Third_exercise/M2L_Tutor_3_solution.ipynb)
 ---
