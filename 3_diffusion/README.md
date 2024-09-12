@@ -37,7 +37,7 @@ In this practical, you will implement algorithms to generate images using a trai
 Tutorial: [![Open In 
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.sandbox.google.com/github/M2Lschool/tutorials2024/blob/main/3_diffusion/diffusion.ipynb)
 
-<!-- Solution: [![Open In 
-Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/M2Lschool/tutorials2024-dev/blob/main/3_diffusion/diffusion_solved.ipynb) -->
+Solution: [![Open In 
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.sandbox.google.com/github/M2Lschool/tutorials2024/blob/main/3_diffusion/diffusion_solved.ipynb)
 
 ---
