@@ -1,6 +1,6 @@
 # [[M2L2024](https://www.m2lschool.org/home)] Tutorial 5: Graph Neural Networks
 
-**Authors:** Masha Samsikova and Wilfriend Bounsi
+**Authors:** Masha Samsikova and Wilfried Bounsi
 
 --- 
 
