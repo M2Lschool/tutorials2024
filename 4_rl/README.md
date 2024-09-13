@@ -32,19 +32,20 @@ You will find theoretical explanations in each chapter that will give you enough
 Tutorial: [![Open In 
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.sandbox.google.com/github/M2Lschool/tutorials2024/blob/main/4_rl/Part%2001/M2L24_RL01%20_Intro_to_RL_exercise.ipynb)
 
-<!-- Solution: [![Open In 
-Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1u_OGwt11bg-yUUgbxRlH4R41EG9JBfr4/view?usp=drive_link) -->
+Solution: [![Open In 
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.sandbox.google.com/github/M2Lschool/tutorials2024/blob/main/4_rl/Part%2001/M2L24_RL01%20_Intro_to_RL_solution.ipynb)
+
 
 #### Part II:
 Tutorial: [![Open In 
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.sandbox.google.com/github/M2Lschool/tutorials2024/blob/main/4_rl/Part%2002/M2L24_RL02%20_Policy_gradient_methods_exercise.ipynb)
 
-<!-- Solution: [![Open In 
-Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1iCPfAxoFK6YpO8GP9_jDVqMw2dYqlzzh/view?usp=drive_link) -->
+Solution: [![Open In 
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.sandbox.google.com/github/M2Lschool/tutorials2024/blob/main/4_rl/Part%2002/M2L24_RL02%20_Policy_gradient_methods_solution.ipynb)
 
 #### Part III:
 Tutorial: [![Open In 
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.sandbox.google.com/github/M2Lschool/tutorials2024/blob/main/4_rl/Part%2003/M2L24_RL03_RLHF_exercise.ipynb)
 
-<!-- Solution: [![Open In 
-Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1jxRALNBypGfKbc0JwL2BRGzl5SvIBwBO/view?usp=drive_link) -->
+Solution: [![Open In 
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.sandbox.google.com/github/M2Lschool/tutorials2024/blob/main/4_rl/Part%2003/M2L24_RL03_RLHF_solution.ipynb)
