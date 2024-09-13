@@ -28,12 +28,12 @@ Tutorial: [![Open In
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.sandbox.google.com/github/M2Lschool/tutorials2024/blob/main/5_gnn/part_I/introduction_to_gnns.ipynb)
 
 
-#### Part 2:
+#### Part II:
 Tutorial: [![Open In 
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.sandbox.google.com/github/M2Lschool/tutorials2024/blob/main/5_gnn/part_II/Missing_data_estimation.ipynb)
 
 
-#### Part 3: 
+#### Part III: 
 Tutorial: [![Open In 
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.sandbox.google.com/github/M2Lschool/tutorials2024/blob/main/5_gnn/part_III/gnns_advanced_topics.ipynb)
 
