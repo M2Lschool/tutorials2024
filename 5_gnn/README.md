@@ -1,6 +1,6 @@
 # [[M2L2024](https://www.m2lschool.org/home)] Tutorial 5: Graph Neural Networks
 
-**Authors:** Masha Samsikova and Wilfriend Bounsi
+**Authors:** Masha Samsikova and Wilfried Bounsi
 
 --- 
 
@@ -27,14 +27,21 @@ Today we will look at Graph Neural Networks (GNNs)! GNNs are a powerful and wide
 Tutorial: [![Open In 
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.sandbox.google.com/github/M2Lschool/tutorials2024/blob/main/5_gnn/part_I/introduction_to_gnns.ipynb)
 
+Solution: [![Open In 
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.sandbox.google.com/github/M2Lschool/tutorials2024/blob/main/5_gnn/part_I/introduction_to_gnns_solved.ipynb)
 
 #### Part II:
 Tutorial: [![Open In 
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.sandbox.google.com/github/M2Lschool/tutorials2024/blob/main/5_gnn/part_II/Missing_data_estimation.ipynb)
 
+Solved: [![Open In 
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.sandbox.google.com/github/M2Lschool/tutorials2024/blob/main/5_gnn/part_II/Missing_data_estimation_solved.ipynb)
 
 #### Part III: 
 Tutorial: [![Open In 
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.sandbox.google.com/github/M2Lschool/tutorials2024/blob/main/5_gnn/part_III/gnns_advanced_topics.ipynb)
+
+Solved: [![Open In 
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.sandbox.google.com/github/M2Lschool/tutorials2024/blob/main/5_gnn/part_III/gnns_advanced_topics_solved.ipynb)
 
 ---
